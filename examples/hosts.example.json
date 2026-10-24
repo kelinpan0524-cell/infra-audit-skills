@@ -1,0 +1,6 @@
+{
+  "hosts": [
+    {"host": "root@203.0.113.10", "key": "~/.ssh/deploy_ed25519", "role": "web", "note": "公网 WordPress"},
+    {"host": "root@198.51.100.20", "key": "~/.ssh/deploy_ed25519", "role": "app", "note": "内网业务机"}
+  ]
+}

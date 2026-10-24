@@ -1,0 +1,5 @@
+reports/
+*.json
+!examples/*.json
+acl-*.json
+.DS_Store
